@@ -1,0 +1,16 @@
+{
+  "name": "profile_web_gc",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000f\u0000i\u0000l\u0000e\u0000_\u0000w\u0000e\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+      "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
